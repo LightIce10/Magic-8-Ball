@@ -1,0 +1,25 @@
+html {
+  background-image: url(sparkly-background.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  width: 550px;
+  padding: 200px;
+  margin: auto;
+  color: whitesmoke;
+}
+
+input {
+  width: 550px;
+}
+
+#eightBall {
+  padding-left: 130px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
