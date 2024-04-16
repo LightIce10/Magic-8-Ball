@@ -23,3 +23,8 @@ button {
   background-color: transparent;
   border: none;
 }
+
+#answer {
+  text-align: center;
+  font-size: 35px;
+}
